@@ -29,6 +29,22 @@ Deploy users should upgrade to the latest 26.0.x release, taking into account an
 
 ## 26
 
+# Version 26.0.5
+
+2026 November
+
+Deploy version 26.0.6 contains upgrades for vulnerabilities.
+
+**Migration Considerations**
+
+**Vulnerabilities**
+
+:eight_spoked_asterisk: **CON-2953*** CVE-2026-114938 dubbed "Java4Shell," is a heap-based memory-corruption vulnerability in OpenJDK's hardware-accelerated Base64 decoder.
+
+**New Features**
+
+**Fixes**
+
 ## Version 26.0.5
 
 2026 October
